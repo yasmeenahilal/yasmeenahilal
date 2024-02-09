@@ -26,7 +26,8 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 📫 Reach me mailto:yasmeenahilal1@gmail.com
 
 😄 Hindi English Urdu
-
+# 💻 Tech Stack:
+!C !C++ !Python !MySQL !NumPy !Pandas !scikit-learn ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 <!--START_SECTION:waka-->
 <br>
