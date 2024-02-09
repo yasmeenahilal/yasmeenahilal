@@ -30,7 +30,7 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 
 <!--START_SECTION:waka-->
 
-txt
+
 Data Science              ██████████████████████████▒░░░░░░░░   78.10 %
 Django                    ████████████████████▓░░░░░░░░░░░░░░   60.90 %
 Django RestFramework      █████████████████▒░░░░░░░░░░░░░░░░░   40.16 %
