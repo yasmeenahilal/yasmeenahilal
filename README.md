@@ -28,6 +28,35 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 😄 Hindi English Urdu
 
 
+<!--START_SECTION:waka-->
+
+txt
+Data Science              ██████████████████████████▒░░░░░░░░   78.10 %
+Django                    ████████████████████▓░░░░░░░░░░░░░░   60.90 %
+Django RestFramework      █████████████████▒░░░░░░░░░░░░░░░░░   40.16 %
+Linux                     ████████████▓░░░░░░░░░░░░░░░░░░░░░░   35.12 %
+Python & its framwork     ████████████████████████▓░░░░░░░░░░   77.71 %
+
+
+<!--END_SECTION:waka-->
+
+
+
+🚧 *my todoist stats:*
+<!-- TODO-IST:START -->
+🏆  MLOps        
+🌸  Deep Learning         
+✅  Transformers          
+⏳  Advace Backend 
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yasmeenahilal&show_icons=true&theme=gotham" alt="Yasmeena Hilal" />
+
+
+
 ## 🔗 Links
 
 
