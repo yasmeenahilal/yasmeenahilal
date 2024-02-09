@@ -13,4 +13,27 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 Email : yasmeenahilal1@gmail.com
 yasmeenahilal/yasmeenahilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
+
+
+## Work
+👩‍💻 I'm currently working in Waboappdiscovery
+
+🧠 I'm currently learning django
+
+👯‍♀️ I'm looking to collaborate on django and Machine Learning and AI Projects
+
+🤔 I'm looking for help with Highly skilled Python Developers Teams to Join
+
+💬 Ask me about on Django Machine Learning NLP
+
+📫 Reach me mailto:yasmeenahilal1@gmail.com
+
+😄 Hindi English Urdu
+
+
+## 🔗 Links
+- Email: [Yasmeena Hilal](mailto:yasmeenahilal1@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yasmeena-hilal-a410b4236/))
+
