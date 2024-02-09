@@ -10,11 +10,6 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 **Libraries & Tools :** Git, Numpy, Pandas, Matplotlib, Sklearn, PowerBI, VS Code, Pycharm, Anaconda
 
 **Data Science:** Machine Learning, Regression, Classification, Clustering, Natural Language Processing
-Email : yasmeenahilal1@gmail.com
-yasmeenahilal/yasmeenahilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
 
 
 ## Work
