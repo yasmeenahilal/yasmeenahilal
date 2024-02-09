@@ -30,12 +30,11 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 
 <!--START_SECTION:waka-->
 
-
-Data Science              ██████████████████████████▒░░░░░░░░   78.10 %
-Django                    ████████████████████▓░░░░░░░░░░░░░░   60.90 %
-Django RestFramework      █████████████████▒░░░░░░░░░░░░░░░░░   40.16 %
-Linux                     ████████████▓░░░░░░░░░░░░░░░░░░░░░░   35.12 %
-Python & its framwork     ████████████████████████▓░░░░░░░░░░   77.71 %
+Data Science              ██████████████████████████▒░░░░░░░░ 78.10%
+Django                    ████████████████████▓░░░░░░░░░░░░░░ 60.90%
+Django RestFramework      █████████████████▒░░░░░░░░░░░░░░░░░ 40.16%
+Linux                     ████████████▓░░░░░░░░░░░░░░░░░░░░░░ 35.12%
+Python & its framework    ████████████████████████▓░░░░░░░░░░ 77.71%
 
 
 <!--END_SECTION:waka-->
