@@ -29,7 +29,7 @@ Python Data Scientist & Web Developer with 1 year experience. I bridge data gaps
 
 
 ## 🔗 Links
-- Email: [Yasmeena Hilal](mailto:yasmeenahilal1@gmail.com)
-<i class="fas fa-envelope"></i> [Yasmeena Hilal](mailto:yasmeenahilal1@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yasmeena-hilal-a410b4236/))
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yasmeena-hilal-a410b4236/))
+<br>
+<i class="fas fa-envelope"></i> [Contact Me](mailto:yasmeenahilal1@gmail.com)
