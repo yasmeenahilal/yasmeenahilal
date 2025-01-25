@@ -1,7 +1,3 @@
-Sure! Here’s a revised version of your "About Me" section with the new updates:
-
----
-
 ## Yasmeena Hilal  
 ### 🚀 About Me  
 I am a **Python AI ML & Web Developer** with **1 year of experience**, passionate about solving complex problems with **Machine Learning** and building powerful solutions using **Django** & **Django Rest Framework**. I specialize in bridging data gaps, extracting meaningful insights from data (using Python and SQL), and creating dynamic, high-impact applications. Recently, I have expanded my skillset to include **LangChain**, **HuggingFace**, **OpenAI**, and **Gemini** in the context of developing **RAG (Retrieval-Augmented Generation) tools**, **RAG agents**, and **chatbots** with a **knowledge base** and **multi-modal agents**.
