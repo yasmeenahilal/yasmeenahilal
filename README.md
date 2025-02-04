@@ -4,6 +4,11 @@ I am a **Python AI ML & Web Developer** with **1 year of experience**, passionat
 
 I have **7 monts of experience** at **WeboAppDiscovery Pvt. Ltd** and **10 months of experience** at **Tekki Websolutions Pvt. Ltd.** as a **Python Developer**, where I worked on a variety of **AI/ML projects** and gained hands-on expertise in **LangChain** and related technologies. As of **January 25, 2025**, I am no longer with the any company and have transitioned into **freelancing**. I am actively seeking **new opportunities**, particularly in **AI/ML** and **Django** development, and open to **freelance projects** in these fields.
 
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ml" alt="ML" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=database" alt="Database" width="40" height="40" />
+
+
 ### 🌱 Currently Learning:
 - **Advanced Django**  
 - **AI/ML Algorithms and Techniques**
@@ -27,10 +32,6 @@ I have **7 monts of experience** at **WeboAppDiscovery Pvt. Ltd** and **10 month
 - Urdu
 
 ---
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ml" alt="ML" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=database" alt="Database" width="40" height="40" />
-
 ### 💻 Tech Stack
 
 **Client:** HTML, CSS, JS  
