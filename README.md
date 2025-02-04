@@ -27,6 +27,9 @@ I have **7 monts of experience** at **WeboAppDiscovery Pvt. Ltd** and **10 month
 - Urdu
 
 ---
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ml" alt="ML" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=database" alt="Database" width="40" height="40" />
 
 ### 💻 Tech Stack
 
